@@ -1,2 +1,3 @@
 This is an example.
 This line is created for checking the merge conflict in dev2 file.
+This is first change for checking the merge conflict.
